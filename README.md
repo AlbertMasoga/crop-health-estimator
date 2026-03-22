@@ -9,7 +9,11 @@ A web-based tool to estimate the health of grape plants from uploaded images and
 - Plant health analysis (mock implementation)
 - Harvest date projection based on health score
 
-## Setup (Local Development)
+## Setup
+
+git add .
+git commit -m "Configure for GitHub Pages deployment"
+git push origin main
 
 1. Install Node.js (version 18 or higher)
 2. Run `npm install` to install dependencies
